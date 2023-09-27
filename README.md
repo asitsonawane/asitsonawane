@@ -27,7 +27,7 @@ Experienced DevOps Engineer & Cloud Specialist with expertise in infrastructure 
 </p>  
 
 <hr>
-<span></span>
+
 ### Cloud Technologies:
 
 <p>
