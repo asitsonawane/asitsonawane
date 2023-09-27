@@ -1,6 +1,6 @@
 # Hi, I'm Asit👋 👨‍💻
 
-<img src="https://github.com/asitsonawane/asitsonawane/blob/main/LinkedIn%20cover%20-%201.png" alt="banner that says Asit Sonawane - DevOps Engineer (Team Lead) | Entrepreneur">
+<img src="https://github.com/asitsonawane/asitsonawane/blob/main/AsitSonawane.png" alt="banner that says Asit Sonawane - DevOps Engineer (Team Lead) | Entrepreneur">
 Experienced DevOps Engineer & Cloud Specialist with expertise in infrastructure design, automation, enhancing performance and entrepreneurship across diverse projects.
 
 <hr>
