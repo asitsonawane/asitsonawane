@@ -76,7 +76,7 @@ Experienced DevOps Engineer & Cloud Specialist with expertise in infrastructure 
 
 <table>
   <tr>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitsonawane&hide=cdss,html&exclude_repo=wordpress-docker-compose&layout=compact"/></td>
-    <td valign="top"><img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"/></td>
+    <td valign="center" width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitsonawane&hide=cdss,html&exclude_repo=wordpress-docker-compose&layout=compact"/></td>
+    <td valign="top" width="60%"><img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"/></td>
   </tr>
 </table>
