@@ -7,7 +7,7 @@ Experienced DevOps Engineer & Cloud Specialist with expertise in infrastructure 
 
 **Connect with me**  
 <div>
- <a href="https://www.linkedin.com/in/amruta-misal-5a53341a8" target="_blank">
+ <a href="https://www.linkedin.com/in/asit-sonawane/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
