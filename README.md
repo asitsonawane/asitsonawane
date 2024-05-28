@@ -71,7 +71,3 @@ Experienced DevOps Engineer & Cloud Specialist with expertise in infrastructure 
   <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"/>
 </p>  
-
-<hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asitsonawane&hide=cdss,html&exclude_repo=wordpress-docker-compose&layout=compact)
